@@ -1,4 +1,4 @@
-# Computational Mathematics VRG at the University of Georgia
+# Computational Mathematics VRG at the University of Georgia, Spring 2017
 
 The computational mathematics VRG at the University of Georgia provides an opportunity for our graduate students to develop useful programming skills to complement their research programs.
 
